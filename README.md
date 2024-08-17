@@ -6,3 +6,9 @@
 - 💬 **Hit me up on** [**Discord**](https://discord.com/invite/UH54hJ3SUx) | Let's chat, brainstorm, and create!
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** Mastering the art of **character animation** to bring virtual heroes to life!
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TenEplays&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TenEplays&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TenEplays&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TenEplays&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TenEplays&theme=2077&utcOffset=8)
